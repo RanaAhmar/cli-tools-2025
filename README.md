@@ -6,6 +6,7 @@
 A meticulously curated list of modern, blazing-fast, and rust-rewritten Command Line Interface (CLI) tools that every developer should know in 2025. Boost your terminal productivity with these modern alternatives to classic Unix commands.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -23,4 +24,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
